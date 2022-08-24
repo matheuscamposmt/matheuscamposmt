@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Science, C++**
 
+- 👯 I’m looking to collaborate on **Data Science, Data Analysis**
+
 - 📫 How to reach me **matheuscamposmtt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
