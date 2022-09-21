@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Mattos</h1>
 <h3 align="center">A undergraduate student in Computer Science, Data Science enthusiast.</h3>
 
-- 🔭 I’m currently working on **PyDockStats**
+- 🔭 I’m currently working on **PyDockStats**, **My Portfolio**
 
 - 🌱 I’m currently learning **Data Science**
 
