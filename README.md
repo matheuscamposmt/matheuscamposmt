@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PyDockStats**
 
-- 🌱 I’m currently learning **Data Science, C++**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science, Data Analysis**
 
