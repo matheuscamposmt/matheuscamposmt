@@ -4,8 +4,11 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>California Housing Prices Prediction using Streamlit</b>
-  - [Repo](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Repo](https://github.com/matheuscamposmt/housing_prices_app)
   - [App](https://housing-prices-prediction.streamlit.app/)
+
+- <b>Portfolio Jupyter Notebooks</b>
+  - [Repo](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 <p align="left">
