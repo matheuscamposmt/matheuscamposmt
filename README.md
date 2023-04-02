@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Matheus Mattos</h1>
-<h3 align="center">A undergraduate student in Computer Science, Data Science enthusiast.</h3>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif" alt="Coder GIF" width="420" height="330">
+
+
+<h1 align="left">Hi 👋, I'm Matheus Mattos</h1>
+<h3 align="left">An undergraduate student in Computer Science, Data Science enthusiast.</h3>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+
 - <b>California Housing Prices Prediction using Streamlit</b>
-  - [Repo](https://github.com/matheuscamposmt/housing_prices_app)
-  - [App](https://housing-prices-prediction.streamlit.app/)
+
+  **Links**: [Repo](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housing-prices-prediction.streamlit.app/)
  
-  An app made with **Streamlit** for predicting housing prices in California. Applied preprocessing, feature engineering, data viz and machine learning techniques.
+  - An app made with **Streamlit** for predicting housing prices in California. 
+  - Applied preprocessing, feature engineering, data viz and machine learning techniques.
 
 - <b>Portfolio Jupyter Notebooks</b>
   - [Repo](https://github.com/joshmadakor1/Algorithms-Practice)
