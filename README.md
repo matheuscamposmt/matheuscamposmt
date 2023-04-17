@@ -6,7 +6,7 @@
 
 - <b>California Housing Prices Prediction using Streamlit</b>
 
-  **Links**: [Repo](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housing-prices-prediction.streamlit.app/)
+  **Links**: [Repo](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housingprice.streamlit.app/)
   
   - Web app made with **Streamlit** that predicts housing prices in California. 
   - Preprocessing, feature engineering, dataviz and Machine Learning techniques.
