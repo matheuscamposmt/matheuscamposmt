@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 
-- <b>California Housing Prices Prediction using Streamlit</b>
+- <b>California Housing Prices Prediction App using Streamlit</b>
 
   **Links**: [Repo](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housingprice.streamlit.app/)
   
