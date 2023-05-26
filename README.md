@@ -4,15 +4,18 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 
-- <b>California Housing Prices Prediction App using Streamlit</b>
-
-  **Links**: [Repo](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housingprice.streamlit.app/)
+- [<b>🏘️ California Housing Prices Prediction App using Streamlit</b>](https://github.com/matheuscamposmt/housing_prices_app)
+  
+  **Links**: [Repository](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housingprice.streamlit.app/)
   
   - Web app made with **Streamlit** that predicts housing prices in California. 
   - Preprocessing, feature engineering, dataviz and Machine Learning techniques.
+- [<b>🌳 Decision Trees from scratch</b>](https://github.com/matheuscamposmt/decision-trees)
+  - Decision Tree using CART algorithm using solely **NumPy** and **Python**. 
+  - Visualization of the tree using **Dash**.
 
-- <b>Portfolio Jupyter Notebooks</b>
-  - [Repo](https://github.com/matheuscamposmt/portfolio)
+- [<b>📓 Portfolio Jupyter Notebooks</b>](https://github.com/matheuscamposmt/portfolio)
+  - Notebooks about theoretical concepts such as **probability**, **model explanation**, and **hypothesis testing**.
 
 <h2> 🤳 Connect with me:</h2>
 <p align="left">
