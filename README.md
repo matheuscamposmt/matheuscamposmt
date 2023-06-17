@@ -11,7 +11,7 @@
   - Web app made with **Streamlit** that predicts housing prices in California. 
   - Preprocessing, feature engineering, dataviz and Machine Learning techniques.
 - [<b>🌳 Decision Trees from scratch</b>](https://github.com/matheuscamposmt/decision-trees)
-  - Decision Tree using CART algorithm using solely **NumPy** and **Python**. 
+  - Decision Tree with CART algorithm using solely **NumPy** and **Python**. 
   - Visualization of the tree using **Dash**.
 
 - [<b>📓 Portfolio Jupyter Notebooks</b>](https://github.com/matheuscamposmt/portfolio)
