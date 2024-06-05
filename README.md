@@ -3,6 +3,10 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- [<b>♻️⚡ Green Energy Forecasting and Supply Chain Optimization</b>](https://github.com/matheuscamposmt/green-energy-opt)
+  - Machine Learning model to forecast annual biomass production
+  - Combinatorial optimization to minimize the supply chain implementation cost
+
 
 - [<b>🏘️ California Housing Prices Prediction App using Streamlit</b>](https://github.com/matheuscamposmt/housing_prices_app)
   
