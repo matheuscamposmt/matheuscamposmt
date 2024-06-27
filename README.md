@@ -8,11 +8,11 @@
   - Combinatorial optimization to minimize the supply chain implementation cost
 
 
-- [<b>🏘️ California Housing Prices Prediction App using Streamlit</b>](https://github.com/matheuscamposmt/housing_prices_app)
+- [<b>🏘️ Housing Prices Prediction App using Streamlit</b>](https://github.com/matheuscamposmt/housing_prices_app)
   
   **Links**: [Repository](https://github.com/matheuscamposmt/housing_prices_app), [App](https://housingprice.streamlit.app/)
   
-  - Web app made with **Streamlit** that predicts housing prices in California. 
+  - Web app made with **Streamlit** that predicts housing prices.
   - Preprocessing, feature engineering, dataviz and Machine Learning techniques.
 - [<b>🌳 Decision Trees from scratch</b>](https://github.com/matheuscamposmt/decision-trees)
   - Decision Tree with CART algorithm using solely **NumPy** and **Python**. 
