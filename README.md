@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matheus de Mattos</h1>
-<h3 align="center">An undergraduate student in Computer Science, Data Science enthusiast.</h3>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
