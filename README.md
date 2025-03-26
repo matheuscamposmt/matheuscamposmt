@@ -5,6 +5,11 @@
 - [<b>♻️⚡ Green Energy Forecasting and Supply Chain Optimization</b>](https://github.com/matheuscamposmt/green-energy-opt)
   - Machine Learning model to forecast annual biomass production
   - Combinatorial optimization to minimize the supply chain implementation cost
+ 
+- [<b>🍞 SemEval 2025 Task 9: The Food Hazard Detection Challenge</b>](https://github.com/matheuscamposmt/food-hazard-bert)
+  - Develops a food hazard detection system for SemEval 2025 Task 9 using Natural Language Processing (NLP) techniques.
+  - Leverages DistilBERT with a custom attention mechanism that integrates textual embeddings with temporal features for improved classification.
+  - Includes data preprocessing, feature engineering, model training with CrossEntropyLoss, and evaluation using detailed metrics and visualizations.
 
 
 - [<b>🏘️ Housing Prices Prediction App using Streamlit</b>](https://github.com/matheuscamposmt/housing_prices_app)
@@ -17,8 +22,7 @@
   - Decision Tree with CART algorithm using solely **NumPy** and **Python**. 
   - Visualization of the tree using **Dash**.
 
-- [<b>📓 Portfolio Jupyter Notebooks</b>](https://github.com/matheuscamposmt/portfolio)
-  - Notebooks about theoretical concepts such as **probability**, **model explanation**, and **hypothesis testing**.
+
 
 <h2> 🤳 Connect with me:</h2>
 <p align="left">
